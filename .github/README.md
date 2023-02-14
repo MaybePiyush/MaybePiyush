@@ -1,4 +1,4 @@
-[<img src="https://github.com/SexyPiyush/SexyPiyush/blob/master/resources/hr.gif"/>](https://github.com/SexyPiyush)
+[<img src="https://github.com/SexyPiyush/SexyPiyush/blob/main/resources/hr.gif"/>](https://github.com/SexyPiyush)
 
 <h1> <img src="https://telegra.ph//file/e51768041fc5abd1081b9.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs 𝗣𝗶𝘆𝘂𝘀𝗵 𝘅𝗗 </h1>
 <p align="center">
