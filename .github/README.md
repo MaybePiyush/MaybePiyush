@@ -41,7 +41,7 @@ class Piyush():
         ]
  ```
 
-[<img src="https://github.com/MaybePiyush/MaybePiyush/blob/master/resources/hr.gif"/>](https://github.com/MaybePiyush)
+[<img src="https://raw.githubusercontent.com/MaybePiyush/MaybePiyush/master/resources/hr.gif"/>](https://github.com/MaybePiyush)
 
 <h1> <img src="https://github.com/MaybePiyush/MaybePiyush/blob/main/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
