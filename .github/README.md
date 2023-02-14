@@ -43,7 +43,7 @@ class Piyush():
 
 [<img src="https://github.com/SexyPiyush/SexyPiyush/blob/master/resources/hr.gif"/>](https://github.com/SexyPiyush)
 
-<h1> <img src="https://github.com/SexyPiyush/SexyPiyush/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<h1> <img src="https://github.com/SexyPiyush/SexyPiyush/blob/main/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=SexyPiyush&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/SexyPiyush)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=SexyPiyush&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/SexyPiyush)
 
@@ -53,14 +53,14 @@ class Piyush():
 
 [<img src="https://raw.githubusercontent.com/SexyPiyush/SexyPiyush/master/resources/telegram_icon.png" width="60px">](https://t.me/SexyPiyush) 
 [<img src="https://raw.githubusercontent.com/SexyPiyush/SexyPiyush/master/resources/github_icon.png" width="60px">](https://github.com/SexyPiyush) 
-[<img src="https://github.com/SexyPiyush/SexyPiyush/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/not_ur_piyush)
+[<img src="https://github.com/SexyPiyush/SexyPiyush/blob/main/resources/insta_icon.png" width="60px">](https://instagram.com/not_ur_piyush)
 
-[<img src="https://github.com/SexyPiyush/SexyPiyush/blob/master/resources/hr.gif"/>](https://github.com/SexyPiyush)
+[<img src="https://github.com/SexyPiyush/SexyPiyush/blob/main/resources/hr.gif"/>](https://github.com/SexyPiyush)
 
 <h1> <img src="https://raw.githubusercontent.com/SexyPiyush/SexyPiyush/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Piyush Spotify" width="75%" />](https://open.spotify.com/user/31kcds3okifbgqyibscn6rzmm4ay)
 
-[<img src="https://github.com/SexyPiyush/SexyPiyush/blob/master/resources/hr.gif"/>](https://github.com/SexyPiyush)
+[<img src="https://github.com/SexyPiyush/SexyPiyush/blob/main/resources/hr.gif"/>](https://github.com/SexyPiyush)
 
 
