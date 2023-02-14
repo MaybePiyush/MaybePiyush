@@ -45,7 +45,7 @@ class Piyush():
 
 <h1> <img src="https://github.com/MaybePiyush/MaybePiyush/blob/main/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=MaybePiyush&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/MaybePiyush)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaybePiyush&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MaybePiyush)
+[<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaybePiyush&&show_icons=true&theme=dark" width="49%">](https://github.com/MaybePiyush)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaybePiyush&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MaybePiyush)
 
 [<img src="https://github.com/MaybePiyush/MaybePiyush/blob/master/resources/hr.gif"/>](https://github.com/MaybePiyush)
 
