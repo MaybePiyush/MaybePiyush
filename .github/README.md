@@ -53,7 +53,7 @@ class Piyush():
 
 [<img src="https://raw.githubusercontent.com/SexyPiyush/SexyPiyush/master/resources/telegram_icon.png" width="60px">](https://t.me/SexyPiyush) 
 [<img src="https://raw.githubusercontent.com/SexyPiyush/SexyPiyush/master/resources/github_icon.png" width="60px">](https://github.com/SexyPiyush) 
-[<img src="https://github.com/SexyPiyush/SexyPiyush/blob/main/resources/insta_icon.png" width="60px">](https://instagram.com/not_ur_piyush)
+[<img src="https://github.com/SexyPiyush/SexyPiyush/blob/main/resources/insta_icon.png" width="60px">](https://github.com/SexyPiyush/SexyPiyush/blob/main/resources/ig)
 
 [<img src="https://github.com/SexyPiyush/SexyPiyush/blob/main/resources/hr.gif"/>](https://github.com/SexyPiyush)
 
