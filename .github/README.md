@@ -12,7 +12,7 @@
 <img src="https://telegra.ph//file/cb092bb7a5a7ea0c1aa25.jpg">
 </p>
 
-[<img src="https://raw.githubusercontent.com/SexyPiyush/MaybePiyush/master/resources/hr.gif"/>](https://github.com/MaybePiyush)
+[<img src="https://raw.githubusercontent.com/MaybePiyush/MaybePiyush/master/resources/hr.gif"/>](https://github.com/MaybePiyush)
 
 <h1> <img src="https://telegra.ph//file/a5607b69f6839ce89d9a4.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
@@ -45,7 +45,7 @@ class Piyush():
 
 <h1> <img src="https://github.com/MaybePiyush/MaybePiyush/blob/main/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=MaybePiyush&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/MaybePiyush)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=SexyPiyush&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MaybePiyush)
+[<img src="https://github-readme-stats.vercel.app/api?username=MaybePiyush&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/MaybePiyush)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaybePiyush&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MaybePiyush)
 
 [<img src="https://github.com/MaybePiyush/MaybePiyush/blob/master/resources/hr.gif"/>](https://github.com/MaybePiyush)
 
