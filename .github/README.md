@@ -24,7 +24,7 @@ class Piyush():
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
         return [
-            'Python', 'SQL'
+            'Python', 'JavaScript'
         ]
     def markup_languages(self):
         return [
@@ -32,8 +32,8 @@ class Piyush():
         ]
     def developer_tools(self):
         return [
-            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
-            'MongoDB', 'MySQL', 'Azure'
+            'GitHub', 'Stack Overflow', 'Heroku',
+            'MongoDB', 'MySQL'
         ]
     def operating_system(self):
         return [
