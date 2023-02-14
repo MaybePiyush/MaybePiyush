@@ -49,7 +49,7 @@ class Piyush():
 
 [<img src="https://github.com/SexyPiyush/SexyPiyush/blob/master/resources/hr.gif"/>](https://github.com/SexyPiyush)
 
-<h1> <img src="https://telegra.ph//file/226962143adaecfa0f3e3.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://telegra.ph//file/71958d525f3e924574299.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://raw.githubusercontent.com/SexyPiyush/SexyPiyush/master/resources/telegram_icon.png" width="60px">](https://t.me/SexyPiyush) 
 [<img src="https://raw.githubusercontent.com/SexyPiyush/SexyPiyush/master/resources/github_icon.png" width="60px">](https://github.com/SexyPiyush) 
