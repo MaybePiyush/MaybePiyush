@@ -4,6 +4,7 @@
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
+    [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>]
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maybepiyush" alt="ᴍᴀʏʙᴇ ᴘɪʏᴜꜱʜ" /></a> </p>
 
