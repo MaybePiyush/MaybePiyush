@@ -10,7 +10,7 @@
 <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🔭 I’m currently working on [AkameRobot](https://github.com/MaybePiyush/AkameRobot)
+- 🔭 I’m currently working on [AkameRobot] (https://github.com/MaybePiyush/AkameRobot)
 
 - 🌱 I’m currently learning **Python**
 
