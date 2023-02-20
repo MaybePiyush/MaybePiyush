@@ -59,7 +59,7 @@ class Piyush():
 
 <h1> <img src="https://raw.githubusercontent.com/MaybePiyush/MaybePiyush/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Piyush Spotify" width="76%" />](https://open.spotify.com/user/31kcds3okifbgqyibscn6rzmm4ay)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Piyush Spotify" width="75%" />](https://open.spotify.com/user/31kcds3okifbgqyibscn6rzmm4ay)
 
 [<img src="https://github.com/MaybePiyush/MaybePiyush/blob/main/resources/hr.gif"/>](https://github.com/MaybePiyush)
 
