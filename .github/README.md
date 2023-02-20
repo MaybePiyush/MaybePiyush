@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm ᴍᴀʏʙᴇ ᴘɪʏᴜꜱʜ</h1>
-<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
@@ -11,7 +10,6 @@
 <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
 - 🔭 I’m currently working on [AkameRobot](https://github.com/MaybePiyush/AkameRobot)
 
 - 🌱 I’m currently learning **Python**
