@@ -22,5 +22,7 @@
 <img src="https://telegra.ph/file/e17826c13cef4421d2ea7.jpg" width="512px"/>
 
 ---
-[![](https://profile-counter.glitch.me/MaybePiyush/count.svg](https://profile-counter.glitch.me)
+<b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
+</p>
 
