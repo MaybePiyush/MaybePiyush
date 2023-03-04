@@ -23,6 +23,6 @@
 
 ---
 <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/MaybePiyush/count.svg" />
 </p>
 
