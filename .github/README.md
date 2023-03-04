@@ -19,9 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://telegra.ph/file/e17826c13cef4421d2ea7.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaybePiyush&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
