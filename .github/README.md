@@ -22,5 +22,5 @@
 <img src="https://telegra.ph/file/e17826c13cef4421d2ea7.jpg" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaybePiyush&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://profile-counter.glitch.me/MaybePiyush/count.svg](https://profile-counter.glitch.me)
 
