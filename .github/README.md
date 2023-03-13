@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ᴀᴋᴀᴍᴇʀᴏʙᴏᴛ](https://github.com/MaybePiyush/AkameRobot)
+- 🔭 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ᴀᴋᴀᴍᴇ ʀᴏʙᴏᴛ](https://github.com/MaybePiyush/AkameRobot)
 
 - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴘʏᴛʜᴏɴ**
 
-- 👯ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ [ᴅᴀᴅᴅʏʙᴏᴍʙᴇʀ](https://github.com/MaybePiyush/DaddyBomber)
+- 👯ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ [ᴅᴀᴅᴅʏ ʙᴏᴍʙᴇʀ](https://github.com/MaybePiyush/DaddyBomber)
 
-- 🤝 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ʜᴇʟᴘ ᴡɪᴛʜ [ᴀᴋᴀᴍᴇʀᴏʙᴏᴛ](https://github.com/MaybePiyush/AkameRobot)
+- 🤝 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ʜᴇʟᴘ ᴡɪᴛʜ [ᴀᴋᴀᴍᴇ ʀᴏʙᴏᴛ](https://github.com/MaybePiyush/AkameRobot)
 
 - 👨‍💻 ᴀʟʟ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴀᴛ [ɢɪᴛʜᴜʙ](https://github.com/MaybePiyush)
 
-- 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [ᴍᴀʏʙᴇᴘɪʏᴜꜱʜ](https://github.com/MaybePiyush)
+- 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [ᴍᴀʏʙᴇ ᴘɪʏᴜꜱʜ](https://github.com/MaybePiyush)
 
 - 💬ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **ᴘʏᴛʜᴏɴ**
 
