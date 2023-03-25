@@ -21,7 +21,7 @@
 
 - 💬ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **ᴘʏᴛʜᴏɴ**
 
-- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **wtfpiyushxd@gmail.com**
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ [WTF! CLICK CHERE](wtfpiyushxd@gmail.com)
 
 - ⚡ ꜰᴜɴ ꜰᴀᴄᴛ **ɪ ᴛʜɪɴᴋ ᴀᴍ ᴛᴏᴏ ꜰᴜɴɴʏ**
 
